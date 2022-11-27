@@ -1,0 +1,10 @@
+.lights{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+}
+.text{
+    background-color: rgb(5, 54, 54);
+    color: antiquewhite;
+}
